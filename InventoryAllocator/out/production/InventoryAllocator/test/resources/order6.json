@@ -1,0 +1,23 @@
+{
+  "order": {
+    "apple": 5,
+    "banana": 5,
+    "orange": 5
+  },
+  "inventory_list": [
+    {
+      "name": "owd",
+      "inventory": {
+        "apple": 5,
+        "orange": 5
+      }
+    },
+    {
+      "name": "dm",
+      "inventory": {
+        "banana": 5,
+        "orange":10
+      }
+    }
+  ]
+}

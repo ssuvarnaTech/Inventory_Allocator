@@ -1,0 +1,13 @@
+{
+  "order": {
+    "apple": 1
+  },
+  "inventory_list": [
+    {
+      "name": "owd",
+      "inventory": {
+        "apple": 0
+      }
+    }
+  ]
+}
